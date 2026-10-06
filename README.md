@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shraddha 👋
 
-<!--
-**Shraddhaa-IT/Shraddhaa-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student interested in using technology to solve practical problems and turn data into useful insights.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- Python
+- SQL
+- Data Analysis
+- Pandas & Matplotlib
+- KNIME
+- Database Design
+- UML & Systems Analysis
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+I'm currently building my technical portfolio through projects in Python, data analytics, databases, and business analysis.
+
+## 📌 Featured Projects
+Projects coming soon — I'm currently documenting and publishing my strongest work.
+
+## 🌱 Currently Learning
+I'm continuing to develop my skills in data analytics, software development, and practical problem-solving.
+
+## 📫 Connect With Me
+LinkedIn: Coming soon
